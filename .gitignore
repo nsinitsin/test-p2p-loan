@@ -1,0 +1,14 @@
+packages/
+.vs/
+.idea/
+.vscode/
+Catalyst/Catalyst.csproj.user
+AppSettingsSecrets.config
+AppSettingsSecrets.json
+Catalyst.Data.Database/Catalyst.Data.Database.dbmdl
+Catalyst.Data.Database/Catalyst.Data.Database.jfm
+node_modules/\nbower_components/
+Catalyst.Data/CatalystModel.Designer.cs
+**/bin
+**/obj
+**.user
