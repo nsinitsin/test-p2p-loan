@@ -41,9 +41,10 @@ Monthly repayment: £30.78
 Total repayments: £1108.10
 ```
 Remarks
-• We do not mind what language you chose for your implementation
-• The monthly and total repayment should use monthly compounding interest. The numbers in the example are correct and achievable
-• We will review your code and run it against some other test cases to see how
+
+  - We do not mind what language you chose for your implementation
+  - The monthly and total repayment should use monthly compounding interest. The numbers in the example are correct and achievable
+  - We will review your code and run it against some other test cases to see how
 it handles them
-• Please, send us your solution in a tar/zip file with a way to build it
-• If you have any questions then don't hesitate to contact us
+  - Please, send us your solution in a tar/zip file with a way to build it
+  - If you have any questions then don't hesitate to contact us
